@@ -1,0 +1,6 @@
+#** GENERATED CONTENT ** Mule Application Deployment Descriptor
+#Thu Nov 08 17:53:19 IST 2018
+redeployment.enabled=true
+encoding=UTF-8
+config.resources=capgemini-american-ws.xml,interface.xml
+domain=default
