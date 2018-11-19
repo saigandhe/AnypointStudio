@@ -2,3 +2,4 @@ authenticated.users=[{"id"\:"b2b8c366-17e6-4883-9d65-689f86f87966","token"\:"1c4
 current.token=1c4d7d9d-c919-4204-b29b-b4d7b1738526
 current.user=NainaSiri
 eclipse.preferences.version=1
+org.mule.tooling.amc.apps={"userProjectMap"\:{"NainaSiri"\:{"capgemini-american-ws"\:"{\\"applicationName\\"\:\\"capgemini-american-ws-naina\\",\\"muleRuntime\\"\:\\"3.9.1\\",\\"properties\\"\:{\\"env\\"\:\\"DEV\\"}}"}}}
